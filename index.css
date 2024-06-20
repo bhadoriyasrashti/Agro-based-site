@@ -159,7 +159,7 @@ text-decoration: none;
 #contact img{
     height: 124px;
 }
-/* Utility classes */
+/* classes */
 .h-primary{
     font-size:26px;
     align-items: center;
@@ -167,4 +167,7 @@ text-decoration: none;
 .btn{
     font-size: 13px;
     padding: 4px 8px;
+}
+.center{
+    color: black;
 }
